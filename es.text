@@ -1,0 +1,58 @@
+1.Cos’è ReactJS? (risposta aperta)
+    React è una libreria che ci permette di creare delle interfacce utente rendendo il nostro frontend diverso e più dinamico.
+    Inoltre permette a chi sviluppa di ridurre i tempi di programmazionee e sviluppo perchè concede una scrittura più leggera e intuibile.
+    Fa si che carichi rapidamente una pagina web così da renderla adattabile ai motori di ricerca.
+
+
+2.ReactJS è un framework, non una libreria. (v/f)
+    FALSO
+
+3.Il file package.json contiene…
+    A. Informazioni non essenziali, può essere tranquillamente eliminato
+    B. Solamente il nome e la versione dell’applicazione
+    C. Molte informazioni utili, come ad esempio l’elenco di tutte le dipendenze richieste dall’applicazione 
+    D. Il primo componente React caricato all’avvio
+
+    La risposta giusta è la C.
+
+4.create-react-app è l’unico modo possibile per creare un’applicazione React (v/f)
+    FALSO
+
+5.Qual è il comando da lanciare nel terminale per creare una nuova create-react-app con nome “test”?
+    A. npx create-react-app test
+    B. npm create-react-app test
+    C. npx create-react-app-test
+    D. npx create-new-react-app test
+
+    La risposta giusta è la A.
+
+6.Cos’è un componente React?
+    A. Una libreria che è necessario importare dentro l’applicazione
+    B. Una pagina ben specifica all’interno dell’applicazione
+    C. Un blocco di logica/contenuto riutilizzabile all’interno dell’applicazione
+    D. Una landing page per l’applicazione
+
+    La risposta giusta è la C.
+
+7.Un componente React può venire creato in tre modi: come funzione, classe o interfaccia. (v/f)
+    FALSO
+
+8.Qual è la differenza tra componenti creati come funzione e componenti creati come classe?
+    A. I componenti creati come funzione sono più semplici da scrivere ma con meno funzionalità, mentre i componenti creati come classe necessitano in genere di un maggior numero di linee di codice ma possiedono più funzionalità.
+    B. I componenti creati come classe sono più semplici da scrivere ma con meno funzionalità, mentre i componenti creati come funzione necessitano in genere di un maggior numero di linee di codice ma possiedono più funzionalità.
+
+    La risposta giusta è la A.
+
+9.Le props sono frammenti di informazione assegnati all’invocazione di un componente React, utili al fine di rendere il componente dinamico e più riutilizzabile. (v/f)
+    VERO
+
+10.Le props possono essere passate solamente da un componente genitore ad un componente figlio, non è possibile fare il contrario (v/f)
+    VERO
+
+11.Da dove possono venire recuperate le props all’interno di un componente React creato come classe?
+    A. Sono proprietà contenute in un oggetto accessibile attraverso i parametri della funzione
+    B. Possono essere recuperate all’interno dello oggetto ‘this’, dentro un sotto-oggetto chiamato ‘props’
+    C. Vengono applicate come proprietà dell’oggetto globale ‘window’
+    D. Vengono applicate come proprietà dell’oggetto ‘document’
+
+    La risposta giusta è la B.
